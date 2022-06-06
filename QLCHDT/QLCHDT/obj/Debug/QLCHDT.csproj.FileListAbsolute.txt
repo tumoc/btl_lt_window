@@ -1,0 +1,189 @@
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+E:\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csprojAssemblyReference.cache
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CopyComplete
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+E:\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csprojAssemblyReference.cache
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CopyComplete
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+E:\tai lieu\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csprojAssemblyReference.cache
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CopyComplete
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+F:\cSharp\BTL_Nop\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+C:\Users\DELL\Documents\Zalo Received Files\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+C:\Users\DELL\Downloads\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\NHOM_14_Quản_lý_cửa_hàng_bán_điện_thoại\QLBanDienThoai\QLBanDienThoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fBanChay.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDoanhThu.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhanVien.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.frmDangNhap.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fXemHD.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fThemHD.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fDienThoai.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fKho.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.fNhaCungCap.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Menu.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+G:\Lap trinh window\Quản_lý_cửa hàng_bán _điện_thoại\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fBanChay.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fDoanhThu.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fNhanVien.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.frmDangNhap.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fXemHD.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fThemHD.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fDienThoai.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fKho.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fNhaCungCap.resources
+G:\Lap trinh window\QL Ban Dien Thoai\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.Menu.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\EntityFramework.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\EntityFramework.xml
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fBanChay.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fDoanhThu.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fNhanVien.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.frmDangNhap.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fXemHD.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fThemHD.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fDienThoai.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fKho.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.fNhaCungCap.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT_Nhom7.Menu.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CopyComplete
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+C:\Users\Mr.Tu\Desktop\tai lieu\QuanLyCuaHangBanDienThoai_2018603407\QuanLyCuaHangBanDienThoai_2018603282\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
